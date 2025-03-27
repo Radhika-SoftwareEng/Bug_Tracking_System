@@ -18,7 +18,7 @@ A **simple Bug Tracking System** built using **Core Java**, applying **OOP princ
 ## 📌 How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/bug-tracking-system.git
+   git clone https://github.com/Radhika-SoftwareEng/Bug_Tracking_System.git
    ```
 2. Open the project in your favorite Java IDE (Eclipse, IntelliJ, VS Code, etc.).
 3. Compile and run the `BugTracker.java` file.
